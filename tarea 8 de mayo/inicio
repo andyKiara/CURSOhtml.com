@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es=pe">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda Comercial</title>
+</head>
+<body>
+<header>
+    <title>e venta de aliemntos de mascota</title>
+    <h1>encotraras todo tipo de alimentos de mascotas</h1>
+    <nav>
+        <ul>
+            <li><a href="producto.html">Productos</a></li>
+            <li><a href="videos.html">video</a></li>
+            <li><a href="audios.html">audio</a></li>
+            
+            
+        </ul>
+    </nav>
+</body>
+</html>

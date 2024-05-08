@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+</header>
+
+<main>
+    <section id="productos de tienda">
+        <h2>aceite</h2>
+        <article>
+            <h3></h3>
+            <img src="https://www.plazavea.com.pe/aceite-vegetal-primor-premium-botella-900ml/p" alt="Producto 1">
+            <p>Precio: $9.50</p>
+            <p>botella 900ml</p>
+        </article>
+
+        <section id="productos enlatados">
+            <h2>cerveza pilsen lata</h2>
+            <article>
+                <h3></h3>
+                <img src="https://www.plazavea.com.pe/cerveza-pilsen-12-pack-lata-355ml/p" alt="Producto 1">
+                <p>Precio: $43.90</p>
+                <p>paquete 12un</p>
+            </article>
+</body>
+<body>
+
+    <h3>regresar a <a href="inicio.html">inicio</a></h3>
+    
+</body>
+
+
+
+</html>

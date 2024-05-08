@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos</title>
+</head>
+<body>
+    <h1>Colección de NOPOr</h1>
+    <div>
+        <h3>LLamen a sauk</h3>
+        <p>Título: fuente tiktok</p>
+        <p>LLamen a saul de BB</p>
+        <video src="c:\Users\Admin\Downloads\saul.mp4"
+        width="%70" 
+        autoplay controls></video>
+        
+    </div>
+
+</body>
+<h3>regresar a <a href="inicio.html">inicio</a></h3>
+</html>

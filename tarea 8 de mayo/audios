@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>audios</title>
+</head>
+<body>
+    <h1>mi coleccion de Canciones</h1>
+
+           
+            <h3>titulo</h3> <strong>Cheri Cheri Lady </strong>
+             <h3>autor</h3><strong>Modern Talking</strong>
+          <audio src="">c:\Users\Admin\Downloads\videoplayback.weba</audio>
+       
+        
+  
+</body>
+<h3>regresar a <a href="inicio.html">inicio</a></h3>
+</html>
